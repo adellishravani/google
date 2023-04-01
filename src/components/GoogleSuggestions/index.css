@@ -1,0 +1,20 @@
+.bg {
+  padding: 40px;
+  text-align: center;
+}
+.image {
+  width: 300px;
+}
+.card {
+  padding: 8px;
+}
+.searchlogo {
+  height: 40px;
+  width: 40px;
+}
+.searchbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
