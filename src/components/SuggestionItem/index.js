@@ -1,7 +1,8 @@
 import './index.css'
 
 const SuggestionItem = props => {
-  const {suggestion} = props
+  const {suggestionList} = props
+  const {suggestion} = suggestionList
 
   return (
     <li className="item">
